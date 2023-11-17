@@ -43,6 +43,7 @@ Math and Computer technology - Akaki Tsereteli State University
 
 ## Courses
 
+- Build Responsive Real-World Websites — [Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - React - The Complete Guide — [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - The MERN Fullstack Guide — [Udemy](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
 - Understanding TypeScript — [Udemy](https://www.udemy.com/course/understanding-typescript/)
