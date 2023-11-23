@@ -37,6 +37,27 @@ pre {
   overflow-x: auto;
 }
 
+.projects {
+  display: flex;
+  max-height: 300px;
+  overflow: hidden;
+}
+
+.project {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 200px;
+  width: 200px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFZqx3KZAVH5_ewhJ8bE4getM7c-bqzwAlcsWqQ9Yig&s");
+}
+
+.project:hover {
+  transition: transform 0.5s ease-in-out;
+  transform: scale(1.1);
+  cursor: pointer;
+}
 footer {
   width: 100%;
   padding: 10px;
