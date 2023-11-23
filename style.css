@@ -42,13 +42,15 @@ footer {
   padding: 10px;
   margin-top: 20px;
   background: linear-gradient(45deg, #3498db, #8e44ad);
-}
-
-footer > p {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
-footer > p > a {
+footer > a {
   color: white;
+}
+
+.logo {
+  height: 30px;
 }
